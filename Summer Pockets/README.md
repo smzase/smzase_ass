@@ -5,6 +5,8 @@
 > 只有苍线精校，其他线均仅确认有无错别字
 
 字体，以及可爱的苍：
+
+【蓝奏云（提取密码：0901）】https://smzase114514.lanzoue.com/b00wn2uzze
 ```
 024-上首软糖体.ttf　<024-上首软糖体>
 A-OTF-TakaHandStd-Medium.otf　<A-OTF Takahand Std M>
