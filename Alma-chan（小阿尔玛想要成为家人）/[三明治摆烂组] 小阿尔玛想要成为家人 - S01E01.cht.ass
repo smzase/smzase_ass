@@ -38,7 +38,7 @@ Style: EDOP,华康翩翩体A Std W5,60,&H00072023,&H000000FF,&H00F3F8FA,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————本字幕由「三明治摆烂组 & Prejudice-Studio」联合制作——————————
+Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————本字幕由「三明治摆烂组」制作——————————
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————请遵循「CC BY-NC-ND 4.0」协议——————————
 Comment: 6,0:00:00.00,0:00:00.00,Text CN,,0,0,0,,————————正文ENG————————
 Dialogue: 5,0:18:40.02,0:18:42.39,Text ENG,,0,0,0,,No! I am no Eigo!
@@ -8207,3 +8207,4 @@ Dialogue: 2,0:03:29.69,0:03:30.03,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,
 Dialogue: 2,0:03:29.69,0:03:30.03,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:03:29.69,0:03:30.03,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+
