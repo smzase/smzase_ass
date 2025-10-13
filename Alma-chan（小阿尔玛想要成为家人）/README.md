@@ -6,6 +6,8 @@
 字体：
 ```
 033-上首方糖体.ttf　＜033-上首方糖体＞
+DreamHanSansCN-W20.ttf　＜梦源黑体 CN W20＞
+DreamHanSansCN-W24.ttf　＜梦源黑体 CN W24＞
 FOT-CinemaCN.ttf　＜FOT-CinemaCN＞
 FOT-CookHandStd-R.otf　＜FOT-CookHand Std R＞
 FOT-SeuratPro-B.otf　＜FOT-Seurat Pro B＞
