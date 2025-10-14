@@ -31,7 +31,7 @@
 | VDL-MegaG DB |[VDL-MegaG-DemiBold.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/VDL-MegaG-DemiBold.otf) |
 | 方正超重要体 简繁 |[方正超重要体 简繁.TTF](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E6%96%B9%E6%AD%A3%E8%B6%85%E9%87%8D%E8%A6%81%E4%BD%93%20%E7%AE%80%E7%B9%81.TTF) |
 | 方正喵呜_GBK |[方正喵呜_GBK.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E6%96%B9%E6%AD%A3%E5%96%B5%E5%91%9C_GBK.ttf) |
-| 华康翩翩体A Std W5 |[华康翩翩体A Std W5.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E5%8D%8E%E5%BA%B7%E7%BF%A9%E7%BF%A9%E4%BD%93A%20Std%20W5.7z) |
+| 华康翩翩体A Std W5 |[华康翩翩体A Std W5.otf（压缩包）](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E5%8D%8E%E5%BA%B7%E7%BF%A9%E7%BF%A9%E4%BD%93A%20Std%20W5.7z) |
 | | [下载]() |
 | | [下载]() |
 | | [下载]() |
