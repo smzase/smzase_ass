@@ -23,18 +23,21 @@
 | 033-上首方糖体 |[033-上首方糖体.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/033-%E4%B8%8A%E9%A6%96%E6%96%B9%E7%B3%96%E4%BD%93.ttf) |
 | 梦源黑体 CN W20 |[DreamHanSansCN-W20.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/DreamHanSansCN-W20.ttf) |
 | 梦源黑体 CN W24 |[DreamHanSansCN-W24.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/DreamHanSansCN-W24.ttf) |
+| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/DreamHanSerifCN-W15.ttf) |
 | FOT-CinemaCN |[FOT-CinemaCN.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/FOT-CinemaCN.ttf) |
 | FOT-CookHand Std R |[FOT-CookHandStd-R.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/FOT-CookHandStd-R.otf) |
 | FOT-Seurat Pro B | [FOT-SeuratPro-B.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/FOT-SeuratPro-B.otf) |
 | 方正兰亭圆GBK ExtraBold |[FZLanTYK_Da.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/FZLanTYK_Da.otf) |
+| 	
+方正兰亭圆GBK DemiBold | [FZLanTYK_Zhong.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/FZLanTYK_Zhong.otf) |
 | 方正VDL兆黑 简 Medium |[FZVDLZhaoHJW-M.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/FZVDLZhaoHJW-M.ttf) |
 | VDL-MegaG DB |[VDL-MegaG-DemiBold.otf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/VDL-MegaG-DemiBold.otf) |
 | 方正超重要体 简繁 |[方正超重要体 简繁.TTF](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E6%96%B9%E6%AD%A3%E8%B6%85%E9%87%8D%E8%A6%81%E4%BD%93%20%E7%AE%80%E7%B9%81.TTF) |
 | 方正喵呜_GBK |[方正喵呜_GBK.ttf](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E6%96%B9%E6%AD%A3%E5%96%B5%E5%91%9C_GBK.ttf) |
 | 华康翩翩体A Std W5 |[华康翩翩体A Std W5.otf（压缩包）](https://github.com/smzase/smzase_sub/blob/main/Alma-chan%EF%BC%88%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%EF%BC%89/fonts/%E5%8D%8E%E5%BA%B7%E7%BF%A9%E7%BF%A9%E4%BD%93A%20Std%20W5.7z) |
-| | [下载]() |
-| | [下载]() |
-| | [下载]() |
-| | [下载]() |
+|  | [下载]() |
+|  | [下载]() |
+|  | [下载]() |
+|  | [下载]() |
 
 ![](https://pic1.imgdb.cn/item/68ed927ac5157e1a886d5b21.jpg)
