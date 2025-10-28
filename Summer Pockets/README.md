@@ -11,7 +11,7 @@
 024-上首软糖体.ttf　<024-上首软糖体>
 A-OTF-TakaHandStd-Medium.otf　<A-OTF Takahand Std M>
 Aozora Mincho Medium.ttf　<Aozora Mincho Medium>
-DreamHanSerifCN-W26.ttf　<梦源黑体 CN W26>
+DreamHanSerifCN-W26.ttf　<梦源宋体 CN W26>
 FOT-KafuMarkerStd-B.otf　<FOT-KafuMarker Std B>
 FOT-KafuNagomiStd-B.otf　<FOT-KafuNagomi Std B>
 FOT-PopJoyStd-B.otf　<FOT-PopJoy Std B>
