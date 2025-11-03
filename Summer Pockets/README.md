@@ -9,12 +9,15 @@
 【蓝奏云（提取密码：0901）】https://smzase114514.lanzoue.com/b00wn2uzze
 ```
 024-上首软糖体.ttf　<024-上首软糖体>
+A-OTF Kyoukasho ICA Pro M.otf　<A-OTF Kyoukasho ICA Pro M>
 A-OTF-TakaHandStd-Medium.otf　<A-OTF Takahand Std M>
 Aozora Mincho Medium.ttf　<Aozora Mincho Medium>
+DreamHanSansCN-W26.ttf　<梦源黑体 CN W26>
 DreamHanSerifCN-W26.ttf　<梦源宋体 CN W26>
 FOT-KafuMarkerStd-B.otf　<FOT-KafuMarker Std B>
 FOT-KafuNagomiStd-B.otf　<FOT-KafuNagomi Std B>
 FOT-PopJoyStd-B.otf　<FOT-PopJoy Std B>
+FOT-SeuratPro-B.otf　<FOT-Seurat Pro B>
 FOT-SeuratPro-DB.otf　<FOT-Seurat Pro DB>
 FOT-TelopMinPro-B.otf　<FOT-TelopMin Pro B>
 FZCKJF.ttf　<方正粗楷 简繁>
